@@ -1,0 +1,5 @@
+{
+  "name": "CS Exam GenAI",
+  "description": "An advanced AI agent that generates specialized Computer Science exam questions from uploaded content or prompts, covering theory, code, and complex problem-solving.",
+  "requestFramePermissions": []
+}
